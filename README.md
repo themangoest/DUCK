@@ -1,0 +1,3 @@
+# DUCK
+
+Freestyle High Fidelity Ducking Circuit: Ducking is also called sidechain compression. This effect is most commonly found in electronic music, where when the kick drum hits, the rest of...
